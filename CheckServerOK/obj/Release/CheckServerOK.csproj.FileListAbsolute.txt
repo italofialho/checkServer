@@ -1,0 +1,17 @@
+C:\Users\RAZOR\documents\visual studio 2015\Projects\CheckServerOK\CheckServerOK\bin\Release\CheckServerOK.exe.config
+C:\Users\RAZOR\documents\visual studio 2015\Projects\CheckServerOK\CheckServerOK\bin\Release\CheckServerOK.exe
+C:\Users\RAZOR\documents\visual studio 2015\Projects\CheckServerOK\CheckServerOK\bin\Release\CheckServerOK.pdb
+C:\Users\RAZOR\documents\visual studio 2015\Projects\CheckServerOK\CheckServerOK\obj\Release\CheckServerOK.exe
+C:\Users\RAZOR\documents\visual studio 2015\Projects\CheckServerOK\CheckServerOK\obj\Release\CheckServerOK.pdb
+C:\Users\RAZOR\documents\visual studio 2015\Projects\CheckServerOK\CheckServerOK\obj\Release\CheckServerOK.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Desktop\CheckServerOK\CheckServerOK\bin\Release\CheckServerOK.exe.config
+C:\Users\Italo\Desktop\CheckServerOK\CheckServerOK\bin\Release\CheckServerOK.exe
+C:\Users\Italo\Desktop\CheckServerOK\CheckServerOK\bin\Release\CheckServerOK.pdb
+C:\Users\Italo\Desktop\CheckServerOK\CheckServerOK\obj\Release\CheckServerOK.exe
+C:\Users\Italo\Desktop\CheckServerOK\CheckServerOK\obj\Release\CheckServerOK.pdb
+C:\Users\Italo\Desktop\CheckServerOK\CheckServerOK\obj\Release\CheckServerOK.csprojResolveAssemblyReference.cache
+I:\CheckServerOK\CheckServerOK\bin\Release\CheckServerOK.exe.config
+I:\CheckServerOK\CheckServerOK\bin\Release\CheckServerOK.exe
+I:\CheckServerOK\CheckServerOK\bin\Release\CheckServerOK.pdb
+I:\CheckServerOK\CheckServerOK\obj\Release\CheckServerOK.exe
+I:\CheckServerOK\CheckServerOK\obj\Release\CheckServerOK.pdb
